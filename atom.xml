@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://iHasher-software-blog.com</id>
+    <id>https://https://ihasher.github.io/iHasher-software-blog.gihub.io/</id>
     <title>Gridea</title>
-    <updated>2020-05-16T13:45:14.580Z</updated>
+    <updated>2020-05-16T13:56:40.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://iHasher-software-blog.com"/>
-    <link rel="self" href="https://iHasher-software-blog.com/atom.xml"/>
+    <link rel="alternate" href="https://https://ihasher.github.io/iHasher-software-blog.gihub.io/"/>
+    <link rel="self" href="https://https://ihasher.github.io/iHasher-software-blog.gihub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://iHasher-software-blog.com/images/avatar.png</logo>
-    <icon>https://iHasher-software-blog.com/favicon.ico</icon>
+    <logo>https://https://ihasher.github.io/iHasher-software-blog.gihub.io/images/avatar.png</logo>
+    <icon>https://https://ihasher.github.io/iHasher-software-blog.gihub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://iHasher-software-blog.com/post/hello-gridea/</id>
-        <link href="https://iHasher-software-blog.com/post/hello-gridea/">
+        <id>https://https://ihasher.github.io/iHasher-software-blog.gihub.io/post/hello-gridea/</id>
+        <link href="https://https://ihasher.github.io/iHasher-software-blog.gihub.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
